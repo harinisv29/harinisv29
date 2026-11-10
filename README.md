@@ -5,11 +5,11 @@
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and their applications in healthcare.
 
-🔬 Currently exploring AI research in medical data analysis, clinical prediction, computer vision, and explainable AI.
+🔬 Interested in AI research, clinical data analysis, computer vision, and explainable AI.
 
-💻 I enjoy building end-to-end AI applications, from data preprocessing and model training to evaluation and deployment.
+💻 I enjoy developing end-to-end AI solutions, from data preprocessing and model training to evaluation and deployment.
 
-🎯 **Goal:** To become a Healthcare AI/ML Engineer and develop intelligent systems that support medical professionals and improve patient care.
+🎯 **Goal:** To become a Healthcare AI/ML Engineer and build intelligent systems that support medical professionals and improve patient care.
 
 ## 🔬 Research Interests
 
@@ -20,23 +20,6 @@
 - Medical Computer Vision
 - Explainable AI (XAI)
 - Graph Neural Networks
-
-## 🚀 Featured Projects
-
-### 🧬 [DiseaseMimic AI](https://github.com/harinisv29/DiseaseMimic_AI)
-Disease–symptom hypergraph learning for rare disease identification using phenotype information.
-
-### ⏳ [ChronoGAN](https://github.com/harinisv29/chronogan)
-Missing-aware generative modeling for clinical time-series data using MIMIC-IV.
-
-### 🩺 SurgiSense AI
-Machine learning for predicting surgical risk and supporting preoperative assessment.
-
-### 🧾 Bill Watchdog AI
-AI-powered hospital bill auditing using OCR, NLP, and healthcare pricing references.
-
-### 🧠 NeuroStrain AI
-Deep learning-based stress detection using physiological signals and explainable AI.
 
 ## 💻 Tech Stack
 
